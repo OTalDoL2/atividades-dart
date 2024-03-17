@@ -1,0 +1,3 @@
+
+Exercício 5 - Verificar o tipo de operação
+Escreva um programa em Dart que leia dois números e uma operação (+, -, *, /) e imprima o resultado da operação. Caso a operação seja inválida, imprima uma mensagem de erro

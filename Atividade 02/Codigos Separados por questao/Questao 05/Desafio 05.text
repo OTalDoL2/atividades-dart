@@ -1,0 +1,2 @@
+Exercício 5 - Média de notas
+Escreva um programa em Dart que leia as notas de um aluno (quantidade de notas fornecida pelo usuário) e calcule a média, usando um loop `while` ou `do while`.

@@ -1,0 +1,2 @@
+Exercício 10 - Soma dos elementos de uma lista
+Escreva um programa em Dart que calcule a soma de todos os elementos de uma lista de números, usando um loop `foreach`.

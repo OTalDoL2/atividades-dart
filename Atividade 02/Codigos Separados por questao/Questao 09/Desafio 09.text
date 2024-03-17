@@ -1,0 +1,2 @@
+Exercício 9 - Substituição em uma lista
+Escreva um programa em Dart que substitua todos os números ímpares em uma lista por zero e imprima a lista resultante, usando um loop `foreach`.

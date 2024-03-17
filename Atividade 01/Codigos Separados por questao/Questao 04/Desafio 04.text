@@ -1,0 +1,5 @@
+Exercício 4 - Calcular o desconto do salário de um funcionário
+Escreva um programa em Dart que calcule o desconto do salário de um funcionário de acordo com a seguinte tabela:
+  - Salário até R$ 1000,00: desconto de 5%
+  - Salário de R$ 1000,01 a R$ 2000,00: desconto de 10%
+  - Salário acima de R$ 2000,00: desconto de 15%  

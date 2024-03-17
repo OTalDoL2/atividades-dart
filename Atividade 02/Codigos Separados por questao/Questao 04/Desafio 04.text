@@ -1,0 +1,2 @@
+Exercício 4 - Soma dos números ímpares
+Escreva um programa em Dart que calcule a soma dos números ímpares de 1 a 100 e imprima o resultado, usando um loop `for`.

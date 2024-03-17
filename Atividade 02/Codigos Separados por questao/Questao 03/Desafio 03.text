@@ -1,0 +1,2 @@
+Exercício 3 - Tabuada
+Escreva um programa em Dart que imprima a tabuada de multiplicação de um número fornecido pelo usuário, de 1 a 10, usando um loop `for`.

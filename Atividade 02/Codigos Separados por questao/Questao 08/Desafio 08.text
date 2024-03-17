@@ -1,0 +1,2 @@
+Exercício 8 - Imprimir elementos pares
+Escreva um programa em Dart que leia uma lista de números e imprima apenas os números pares, usando um loop `foreach`.
