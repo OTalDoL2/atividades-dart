@@ -1,28 +1,29 @@
-Exercício 1 - Verificar se um número é positivo, negativo ou zero
-Escreva um programa em Dart que leia um número e imprima se ele é positivo, negativo ou zero
+Exercício 1 - Contagem progressiva
+Escreva um programa em Dart que imprima os números de 1 a 10 usando um loop `while`.
 
-Exercício 2 - Verificar se um número é par ou ímpar
-Escreva um programa em Dart que leia um número e imprima se ele é par ou ímpar.
+Exercício 2 - Contagem regressiva
+Escreva um programa em Dart que imprima os números de 10 a 1 usando um loop `do while`.
 
-Exercício 3 - Verificar se um ano é bissextoerificar se um ano é bissexto
-Escreva um programa em Dart que verifique se um ano é bissexto. Um ano é bissexto se for divisível por 4, exceto os anos que são múltiplos de 100 mas não são múltiplos de 400
+Exercício 3 - Tabuada
+Escreva um programa em Dart que imprima a tabuada de multiplicação de um número fornecido pelo usuário, de 1 a 10, usando um loop `for`.
 
-Exercício 4 - Calcular o desconto do salário de um funcionário
-Escreva um programa em Dart que calcule o desconto do salário de um funcionário de acordo com a seguinte tabela:
-  - Salário até R$ 1000,00: desconto de 5%
-  - Salário de R$ 1000,01 a R$ 2000,00: desconto de 10%
-  - Salário acima de R$ 2000,00: desconto de 15%  
+Exercício 4 - Soma dos números ímpares
+Escreva um programa em Dart que calcule a soma dos números ímpares de 1 a 100 e imprima o resultado, usando um loop `for`.
 
-Exercício 5 - Verificar o tipo de operação
-Escreva um programa em Dart que leia dois números e uma operação (+, -, *, /) e imprima o resultado da operação. Caso a operação seja inválida, imprima uma mensagem de erro
+Exercício 5 - Média de notas
+Escreva um programa em Dart que leia as notas de um aluno (quantidade de notas fornecida pelo usuário) e calcule a média, usando um loop `while` ou `do while`.
 
-Exercício 6 - Verificar a letra digitada
-Escreva um programa em Dart que leia uma letra e verifique se ela é uma vogal ou uma consoante.
+Exercício 6 - Lista de compras
+Escreva um programa em Dart que crie uma lista de compras e imprima cada item da lista, usando um loop `for`.
 
-Exercício 7 - Determinar o dia da semana
-Escreva um programa em Dart que leia um número de 1 a 7 e imprima o dia da semana correspondente (1 - Domingo, 2 - Segunda, ..., 7 - Sábado). Se o número não estiver no intervalo de 1 a 7, imprima uma mensagem de erro.
+Exercício 7 - Busca em uma lista
+Escreva um programa em Dart que verifique se um número fornecido pelo usuário está presente em uma lista de números, usando um loop `foreach`.
 
-Exercício 8 - Verificar o tipo de triângulo
-Escreva um programa em Dart que leia três números e verifique se eles podem formar um triângulo equilátero, isósceles ou escaleno.
+Exercício 8 - Imprimir elementos pares
+Escreva um programa em Dart que leia uma lista de números e imprima apenas os números pares, usando um loop `foreach`.
 
+Exercício 9 - Substituição em uma lista
+Escreva um programa em Dart que substitua todos os números ímpares em uma lista por zero e imprima a lista resultante, usando um loop `foreach`.
 
+Exercício 10 - Soma dos elementos de uma lista
+Escreva um programa em Dart que calcule a soma de todos os elementos de uma lista de números, usando um loop `foreach`.

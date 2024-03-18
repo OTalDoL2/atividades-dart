@@ -1,2 +1,2 @@
-Exercício 07 - Busca em uma lista
+Exercício 7 - Busca em uma lista
 Escreva um programa em Dart que verifique se um número fornecido pelo usuário está presente em uma lista de números, usando um loop `foreach`.
